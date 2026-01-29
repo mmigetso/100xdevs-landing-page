@@ -40,9 +40,9 @@ li{
 }
 .navbar h1{
     color: #1f1f1f;
-    font-size: 20px;
+    font-size: 22px;
     font-family: "poppins" serif;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .search-bar{
@@ -338,11 +338,10 @@ a{
      margin-bottom: 10px;
 }
 
-.child-1 p{
+.paragraph2{
     font-size: clamp(0.729vw ,14px, 0,938vw);
     color: white;
     letter-spacing: 0.45px;
-    line-height: 1.55px; 
 }
 
 .hero-img{
