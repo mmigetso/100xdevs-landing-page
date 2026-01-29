@@ -37,12 +37,14 @@ li{
     margin: 0 20px;
     font-size: 18px;
     color: rgb(14, 14, 58);
+    font-family:sans-serif;
 }
 .navbar h1{
     color: #1f1f1f;
     font-size: 22px;
     font-family: "poppins" serif;
     font-weight: 700;
+    font-family: sans-serif;
 }
 
 .search-bar{
@@ -153,6 +155,7 @@ li{
    align-items: center;
    gap: 20px;
    margin-top: 20px;
+   font-family:sans-serif;
 }
 .btn-2 button{
     display: inline-flex;
@@ -162,6 +165,7 @@ li{
     border: 1px solid gray;
     border-radius: 10px;
     cursor: pointer;
+    font-family:sans-serif;
 }
 .learn-btn{
     background: white;
